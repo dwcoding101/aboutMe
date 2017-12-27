@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dwcoding101/aboutMe/issues"
   },
-  "homepage": "https://github.com/dwcoding101/aboutMe#readme"
+  "homepage": "https://github.com/dwcoding101/aboutMe#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
