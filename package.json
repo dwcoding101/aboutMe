@@ -1,0 +1,19 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "protfolio development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwcoding101/aboutMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwcoding101/aboutMe/issues"
+  },
+  "homepage": "https://github.com/dwcoding101/aboutMe#readme"
+}
